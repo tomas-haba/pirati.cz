@@ -14,10 +14,9 @@ mail:
 - lenka.kozlova@pirati.cz
 mob: 
 asistenti:
-  - name: Jaroslav Němec
-    mail: jarnemec@psp.cz
-    tel: 608 408 587
-  - name: Antonín Schejbal
+  - name: Štěpán Drtina
+    mail: stepan.drtina@pirati.cz
+    tel: 775 221 705
 profiles:
   github:       
   facebook:     https://www.facebook.com/lenka.kozlova.5
